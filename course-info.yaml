@@ -1,0 +1,9 @@
+type: marketplace
+title: UMGC CMSC 105 Lessons
+language: English
+programming_language: Python
+environment: unittest
+solutions_hidden: true
+content:
+  - Unit 1
+yaml_version: 1

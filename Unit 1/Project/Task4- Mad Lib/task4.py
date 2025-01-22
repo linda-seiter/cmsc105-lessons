@@ -1,0 +1,1 @@
+# TODO: Read in the mad lib placeholders (adjective, noun, verb) and output the corresponding mad lib.
