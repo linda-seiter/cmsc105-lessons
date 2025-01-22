@@ -2,11 +2,12 @@ Unit 1 Project
 
 Learning Objectives 
 
-- Use PyCharm to run Python code
-- Call the print function to produce output
-- Call the input function to read user input
+- Run Python code using PyCharm
+- Use the `print` function to display output
 - Assign a value to a variable
-- Print the value of a variable
-- Use an f-string to format strings for output
-- Use comments to document code
-- Fix common syntax and logic errors
+- Output the value of a variable with `print`
+- Format strings for output using f-strings
+- Use the `input` function to capture user input
+- Store the value from user input in a variable
+- Add comments to explain the code
+- Identify and correct common syntax and logic errors
