@@ -5,5 +5,16 @@ programming_language: Python
 environment: unittest
 solutions_hidden: true
 content:
-  - Unit 1
-yaml_version: 1
+  - Getting Started
+  - Unit 1 Lesson
+  - Unit 1 Project
+  - Unit 2 Lesson
+  - Unit 2 Project
+additional_files:
+  - name: .idea/inspectionProfiles/profiles_settings.xml
+  - name: README.md
+  - name: Unit 1 Lesson/Fundamentals/__init__.py
+  - name: Unit 1 Lesson/__init__.py
+  - name: Unit 1 Lesson/Fundamentals/Strings/__init__.py
+  - name: Unit 1 Lesson/Fundamentals/Strings/print_strings.py
+yaml_version: 2

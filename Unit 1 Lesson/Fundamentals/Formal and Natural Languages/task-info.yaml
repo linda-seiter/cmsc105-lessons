@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A purple paragraph is eating a grape.
+    is_correct: false
+  - text: Why i?s it so
+    is_correct: true
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+local_check: true

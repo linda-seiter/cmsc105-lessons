@@ -1,2 +1,0 @@
-Python is a popular programming language.
-Python is free to use and open source.

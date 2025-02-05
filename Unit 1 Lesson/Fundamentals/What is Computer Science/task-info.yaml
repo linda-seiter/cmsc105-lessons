@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Solving problems, often through programming"
+    is_correct: true
+  - text: The study of computers
+    is_correct: false
+  - text: Web programming
+    is_correct: false
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+local_check: true
