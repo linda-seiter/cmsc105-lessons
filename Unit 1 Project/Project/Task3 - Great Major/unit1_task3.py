@@ -1,17 +1,11 @@
-"""
-This program asks the user for their name and major,
-then generates formatted output using the provided information.
+"""Unit 1-Task 3 Project
+
+This program prompts for a major and displays an affirmation using the user input.
 
 Author: First Last
 Date: January 1, 2025
 Version: 1.0
 """
-
-# Prompt for name.
-name = input('Enter your name: ')
-
-# Display a greeting that includes the name.
-print(f'Hello {name}!')
 
 # TODO: Prompt for academic major.
 

@@ -1,9 +1,13 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: Correct
+  - text: print('Python)
+    is_correct: false
+  - text: print 'Python'
+    is_correct: false
+  - text: print('Python')
     is_correct: true
-  - text: Incorrect
+  - text: print('Python'
     is_correct: false
 files:
   - name: main.py

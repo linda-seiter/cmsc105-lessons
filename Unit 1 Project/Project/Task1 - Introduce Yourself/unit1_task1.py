@@ -1,9 +1,10 @@
-"""
-This program prints several lines of information about the author.
+"""Unit 1-Task 1 Project
+
+This program prints multiple lines of information about the author.
 
 Author: First Last
 Date: January 1, 2025
-Version: 1.0
+
 """
 
 # TODO: Edit each print statement to introduce yourself.

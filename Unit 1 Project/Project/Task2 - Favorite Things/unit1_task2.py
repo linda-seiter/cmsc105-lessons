@@ -1,6 +1,7 @@
-"""
-This program assigns a value to a variable and uses an f-string
-to produce formatted output.
+"""Unit 1-Task 2 Project
+
+This program initializes a variable and utilizes an f-string
+to display formatted output.
 
 Author: First Last
 Date: January 1, 2025

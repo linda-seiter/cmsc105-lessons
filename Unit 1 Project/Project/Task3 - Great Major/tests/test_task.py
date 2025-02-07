@@ -15,18 +15,18 @@ class TestCase(unittest.TestCase):
 
     def test_cs(self):
         """Test for Computer Science input."""
-        input_values = ['Amal', 'Computer Science']
-        expected_output = "Hello Amal!\nComputer Science is a great major!"
+        input_values = ['Computer Science']
+        expected_output = "Computer Science is a great major!"
         self.run_io_test(input_values, expected_output)
 
     def test_cyber(self):
         """Test for Cybersecurity Technology input."""
-        input_values = ['Lena', 'Cybersecurity Technology']
-        expected_output = "Hello Lena!\nCybersecurity Technology is a great major!"
+        input_values = ['Cybersecurity Technology']
+        expected_output = "Cybersecurity Technology is a great major!"
         self.run_io_test(input_values, expected_output)
 
     def test_web(self):
         """Test for Web and Digital Design input."""
-        input_values = ['Jay', 'Web and Digital Design']
-        expected_output = "Hello Jay!\nWeb and Digital Design is a great major!"
+        input_values = ['Web and Digital Design']
+        expected_output = "Web and Digital Design is a great major!"
         self.run_io_test(input_values, expected_output)
