@@ -25,7 +25,6 @@ Consider the following:
 Th?is does .not make sense
 ```
 
-
 In English, we follow grammar rules to construct proper
 sentences. If a sentence violates these rules, it's
 considered incorrect. The same applies in Python—if

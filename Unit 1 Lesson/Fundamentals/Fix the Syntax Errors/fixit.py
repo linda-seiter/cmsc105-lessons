@@ -1,7 +1,7 @@
-print('Apple')  # This line of code is correct
+print('red')  # This line is correct
 
-print('Orange)  # TODO: Add the missing single quote
+print('green)  # TODO: Fix the error
 
-print('Pear'    # TODO: Add the missing parenthesis
+print('blue'   # TODO: Fix the error
 
-Print('Banana') # TODO: print should be lowercase
+Print('black') # TODO: Fix the error

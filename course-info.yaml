@@ -17,4 +17,14 @@ additional_files:
   - name: Unit 1 Lesson/__init__.py
   - name: Unit 1 Lesson/Fundamentals/Strings/__init__.py
   - name: Unit 1 Lesson/Fundamentals/Strings/print_strings.py
+  - name: Unit 1 Lesson/Fundamentals/resources/run.png
+    is_binary: true
+  - name: Unit 1 Lesson/Fundamentals/resources/run2.png
+    is_binary: true
+  - name: Unit 1 Lesson/Fundamentals/resources/run3.png
+    is_binary: true
+  - name: Unit 1 Lesson/Fundamentals/resources/output.png
+    is_binary: true
+  - name: Unit 1 Lesson/Fundamentals/resources/comments.png
+    is_binary: true
 yaml_version: 2

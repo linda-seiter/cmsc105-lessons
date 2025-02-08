@@ -1,11 +1,10 @@
 """
-This program assigns a value to a variable and uses an f-string
-to produce formatted output.
+This program displays a few facts about Python.
 
 Author: First Last
 Date: January 1, 2025
 Version: 1.0
 """
 
-favorite_color = 'blue'
-print(f'My favorite color is {favorite_color}.')
+print('Python runs on Window, macOS, and Linux.')
+print('Python was named after the comedy group Monty Python.')
