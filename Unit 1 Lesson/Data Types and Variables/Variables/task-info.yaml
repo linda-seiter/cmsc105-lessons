@@ -1,15 +1,14 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: '''Not a string?'''
+  - text: apples
     is_correct: false
-  - text: Not a string?
+  - text: 1.25
     is_correct: true
-  - text: '"Not a string?"'
+  - text: 3
     is_correct: false
-message_incorrect: A string must be enclosed in single or double quotes.
 files:
-  - name: print_strings.py
+  - name: variables.py
     visible: true
   - name: __init__.py
     visible: false

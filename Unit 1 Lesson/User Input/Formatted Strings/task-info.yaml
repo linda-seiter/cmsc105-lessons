@@ -1,6 +1,6 @@
 type: theory
 files:
-  - name: hello.py
+  - name: f_string.py
     visible: true
   - name: __init__.py
     visible: false

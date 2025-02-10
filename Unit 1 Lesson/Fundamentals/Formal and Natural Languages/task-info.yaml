@@ -7,7 +7,8 @@ options:
     is_correct: true
   - text: The car is blue.
     is_correct: false
-message_incorrect: The first and third sentences are syntactically correct because they adhere to grammar rules.
+message_incorrect: The first and third sentences are syntactically correct because
+  they adhere to grammar rules.
 files:
   - name: main.py
     visible: true

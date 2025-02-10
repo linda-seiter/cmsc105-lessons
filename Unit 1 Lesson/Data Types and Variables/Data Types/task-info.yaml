@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: '''13'''
+    is_correct: false
+  - text: 13.0
+    is_correct: false
+  - text: 13
+    is_correct: true
+message_incorrect: An int does not include quotes or a decimal point.
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+local_check: true

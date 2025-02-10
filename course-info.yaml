@@ -17,14 +17,34 @@ additional_files:
   - name: Unit 1 Lesson/__init__.py
   - name: Unit 1 Lesson/Fundamentals/Strings/__init__.py
   - name: Unit 1 Lesson/Fundamentals/Strings/print_strings.py
-  - name: Unit 1 Lesson/Fundamentals/resources/run.png
+  - name: Unit 1 Lesson/resources/run.png
     is_binary: true
-  - name: Unit 1 Lesson/Fundamentals/resources/run2.png
+  - name: Unit 1 Lesson/resources/run2.png
     is_binary: true
-  - name: Unit 1 Lesson/Fundamentals/resources/run3.png
+  - name: Unit 1 Lesson/resources/run3.png
     is_binary: true
-  - name: Unit 1 Lesson/Fundamentals/resources/output.png
+  - name: Unit 1 Lesson/resources/fixit.png
     is_binary: true
-  - name: Unit 1 Lesson/Fundamentals/resources/comments.png
+  - name: Unit 1 Lesson/resources/error1.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/error2.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/error3.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/error4.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/output.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/comments.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/variable_assignment.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/pythontutor_next.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/variable_output.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/say_hello.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/f_string.png
     is_binary: true
 yaml_version: 2

@@ -11,5 +11,5 @@ Python is free and open-source.
 
 Click the "Check" button below to test the code. The test fails because the third Python fact is not printed.
 
-1. Modify `python_facts.py` to include the missing third print statement.
+1. Modify `python_facts.py` to include the missing third print statement. Ensure you pass a valid string to the `print` function.
 2. Click the "Check" button again and confirm the code is correct.

@@ -1,25 +1,10 @@
+dsafsdfasfsdf
 
-This is a task description file.
-Its content will be displayed to a learner
-in the **Task Description** window.
-
-It supports both Markdown and HTML.
-To toggle the format, you can rename **task.md**
-to **task.html**, or vice versa.
-The default task description format can be changed
-in **Preferences | Tools | Education**,
-but this will not affect any existing task description files.
-
-The following features are available in
-**task.md/task.html** which are specific to the JetBrains Academy plugin:
-
-- Hints can be added anywhere in the task text.
-  Type "hint" and press Tab.
-  Hints should be added to an empty line in the task text.
-  In hints you can use both HTML and Markdown.
 <div class="hint">
 
-Text of your hint
+name = input('What is your name: ')<br>
+country = input('Where do you live: ')<br>
+print(f'Hi {name} from {country}!')
 
 </div>
 

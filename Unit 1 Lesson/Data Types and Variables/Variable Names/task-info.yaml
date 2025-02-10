@@ -1,15 +1,15 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: '''Not a string?'''
+  - text: 1st_class
     is_correct: false
-  - text: Not a string?
+  - text: class_1
     is_correct: true
-  - text: '"Not a string?"'
+  - text: first class
     is_correct: false
-message_incorrect: A string must be enclosed in single or double quotes.
+message_incorrect: Must start with a letter or underscore. May only contain letters, digits, and underscores.
 files:
-  - name: print_strings.py
+  - name: variables.py
     visible: true
   - name: __init__.py
     visible: false
