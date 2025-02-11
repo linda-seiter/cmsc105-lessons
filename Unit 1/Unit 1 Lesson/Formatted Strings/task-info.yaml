@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: color = 'red'<br>print('The car is {color}.')
+    is_correct: false
+  - text: color = 'red'<br>print(f'The car is color.')
+    is_correct: false
+  - text: color = 'red'<br>print(f'The car is {color}.')
+    is_correct: true
+message_incorrect: The letter 'f' must come before the string, and the variable should be enclosed in curly braces.
+files:
+  - name: f_string.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+local_check: true
