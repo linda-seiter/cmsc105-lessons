@@ -6,7 +6,7 @@ Welcome to CMSC 105!
 
 After completing this course, you should be able to:
 
-- Apply fundamental programming concepts, including variables, control structures, data structures, and functions.
+- Apply fundamental programming concepts, including variables, control structures, elementary data structures, and functions.
 - Understand and interpret Python code.
 - Develop Python programs from scratch.
 - Debug and test Python programs effectively.

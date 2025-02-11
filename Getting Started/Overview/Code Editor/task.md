@@ -11,7 +11,7 @@ img {
   margin-right: auto;
 }
 </style>
-<img src="edu_editor_dark.png" class="center" width=600>
+<img src="editor.png" class="center" width=600>
 
 
 To run your code at any time,  
@@ -19,7 +19,6 @@ right-click anywhere in the **Editor** view so you can see the context menu,
 then choose the Run option from the context menu.  You can also
 run a program by pressing <span style="color: #509DD6">&shortcut:Run;</span>:
 
-TODO: REDO Image, alt
 
 <style>
 img {
@@ -28,6 +27,6 @@ img {
   margin-right: auto;
 }
 </style>
-<img src="edu_context_menu_run_dark.png" class="center" width=600>
+<img src="run.png" class="center" width=600>
 
 

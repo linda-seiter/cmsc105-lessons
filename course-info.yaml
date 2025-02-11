@@ -43,8 +43,10 @@ additional_files:
     is_binary: true
   - name: Unit 1 Lesson/resources/variable_output.png
     is_binary: true
-  - name: Unit 1 Lesson/resources/say_hello.png
-    is_binary: true
   - name: Unit 1 Lesson/resources/f_string.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/pet_io.png
+    is_binary: true
+  - name: Unit 1 Lesson/resources/pet_io2.png
     is_binary: true
 yaml_version: 2

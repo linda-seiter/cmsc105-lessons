@@ -5,9 +5,6 @@ files:
   - name: __init__.py
     visible: false
     propagatable: false
-  - name: edu_course_overview.png
-    visible: true
-    is_binary: true
-  - name: edu_course_overview_dark.png
-    visible: true
+  - name: pycharm_views.png
+    visible: false
     is_binary: true

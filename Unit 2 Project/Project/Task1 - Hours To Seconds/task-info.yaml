@@ -1,6 +1,6 @@
 type: edu
 files:
-  - name: unit2_task1.py
+  - name: unit2_task1_solution.py
     visible: true
   - name: tests/test_task.py
     visible: false

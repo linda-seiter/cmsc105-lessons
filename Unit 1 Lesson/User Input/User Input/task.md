@@ -1,18 +1,23 @@
-So far, the programs we've seen produce the same output every time they are run.
+Let's look at a program that asks the user for input and generates output based on their response.
 
-Things get more interesting when the program interacts with the user, asking for input and generating output based on that input.
+The `pet_io.py` file asks the user for their pet's type and name,
+then prints a message that includes the pet data.  
 
-As a simple example, the code in `say_hello.py` asks the user for their name and then greets them using that name.
+Run the code multiple times with different input values. For example:
 
-Run the program a few times and input different names.
+| Example #1                                                                      | Example #2                                                                      |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| <img src="../../resources/pet_io.png" alt="Skipper the dog run window output"> | <img src="../../resources/pet_io2.png" alt="Hoppy the bunny run window output"> |
 
-<img src="../../resources/say_hello.png" alt="say_hello.py run window output" width="300px">
+Now, let's review each line of code:
 
-`name = input('What is your name: ')`
-   - The `input()` function displays the prompt "What is your name: " to the user.
-   - Python waits for the user to enter their name and press Enter.
-   - The entered name is stored in the `name` variable.
+`pet_type = input('Pet type: ')`
+   - The `input()` function shows the prompt 'Pet type: '.
+   - Python waits for the user to type a value and hit Enter.
+   - The input is stored in the `pet_type` variable.
 
-`print('Hello', name)`
-   - The `print()` function displays "Hello" followed by the value stored in the `name` variable, greeting the user.
-   - Notice that two comma-separated values are passed to the `print()` function: the string `'Hello'` and the `name` variable. You can pass multiple expressions into the function, and they will be printed with a space separating them.
+`pet_name = input('Pet name: ')`
+   - Similarly, the prompt 'Pet name: ' appears, and the entered value is saved in the `pet_name` variable.
+
+`print(pet_name , 'the', pet_type)`
+   - Here, three comma-separated values are passed to the `print()` function. Multiple arguments can be passed, and Python automatically adds spaces between the values when displaying the output.

@@ -5,6 +5,6 @@ files:
   - name: __init__.py
     visible: false
     propagatable: false
-  - name: edu_course_view_dark.png
-    visible: true
+  - name: course_view.png
+    visible: false
     is_binary: true
