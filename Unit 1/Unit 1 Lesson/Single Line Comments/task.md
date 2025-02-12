@@ -1,17 +1,15 @@
-Comments are included in code to improve readability, explain complex logic, document design decisions, and serve other purposes.
+Comments are commonly used in code to enhance readability and explain complex logic.
 
-Single-line comments begin with the hash symbol (#) and are typically followed by a space. Everything after the hash symbol up to the end of the line is ignored by the program during execution.
+Single-line comments start with the hash symbol (#) and are usually followed by a space. Any text after the hash symbol, up to the end of the line, is ignored during program execution.
 
 <img src="../resources/comments.png" alt="Single Line Comment With Hash Symbol" width="300px">
 
-In `comments.py`, lines 1 and 4 are commented out, so they are skipped when the program executes.
-- Line 1 offers a short description of the code's function.
-- Line 4 is commented out to prevent *banana* from appearing in the output.
+In `comments.py`, lines 1 and 4 are commented out and will be skipped when the program runs.
 
 ### Code Challenge
 
 Click the "Check" button. The test fails because the output excludes 'banana' and includes 'strawberry'.
 
-1. Remove the comment character `# ` on line 4 so that *banana* is printed.
+1. Remove the comment `# ` on line 4 so that *banana* is printed. Make sure to remove both the hash symbol and the space.
 2. Comment out line 6 (don't delete it) to prevent *strawberry* from being printed.
 3. Click the "Check" button to confirm the code is correct.

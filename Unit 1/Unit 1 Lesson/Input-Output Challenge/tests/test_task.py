@@ -16,12 +16,12 @@ class TestCase(unittest.TestCase):
     def test_amir_england(self):
         """Test Amir from England"""
         input_values = ['Amir', 'England']
-        expected_output = "Hi Amir from England!"
+        expected_output = "Hi Amir from England"
         self.run_io_test(input_values, expected_output)
 
     def test_siena_france(self):
         """Test for Siena from France"""
         input_values = ['Siena', 'France']
-        expected_output = "Hi Siena from France!"
+        expected_output = "Hi Siena from France"
         self.run_io_test(input_values, expected_output)
 

@@ -11,22 +11,8 @@ img {
   margin-right: auto;
 }
 </style>
-<img src="editor.png" class="center" width=600>
+<img src="editor.png" alt="editor window displaying Python code" class="center" width=600>
 
+To run the code, right-click in the Editor view so you can see the context menu, then choose the Run option.
 
-To run your code at any time,  
-right-click anywhere in the **Editor** view so you can see the context menu,
-then choose the Run option from the context menu.  You can also
-run a program by pressing <span style="color: #509DD6">&shortcut:Run;</span>:
-
-
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-<img src="run.png" class="center" width=600>
-
-
+<img src="run.png" alt="context menu showing run option" class="center" width=600>

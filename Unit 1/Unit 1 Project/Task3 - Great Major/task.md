@@ -24,7 +24,7 @@ The table below shows sample input and expected output. The input values are hig
 INSTRUCTIONS:
 
 1. Edit the header comment to list yourself as the author.
-2. Edit the code to prompt for the user's major and output a message confirming that it's a great choice.
+2. Edit the code to prompt for the user's major and output a message confirming that it's a great major.
 3. Run the code several times to test with different values for major.
 4. Once you've confirmed the program I/O is correct, press the Check button to run the tests.
 

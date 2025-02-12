@@ -9,7 +9,7 @@ class TestCase(unittest.TestCase):
             with patch("sys.stdout", new=io.StringIO()) as mock_stdout:
                 with open("unit2_task3.py", "r") as file:
                     code = file.read()
-                    exec(code)  # Executes the code in unit1_task5.py
+                    exec(code)  # Executes the code in unit1_task4.py
                     actual = mock_stdout.getvalue().strip()
                     self.assertEqual(expected_output, actual)
 

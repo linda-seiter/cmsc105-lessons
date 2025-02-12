@@ -10,7 +10,10 @@ The check will fail because only two lines are printed.
 
 *NOTE: Ignore the three extra periods `...` at the end of the expected output; they represent a newline character.*
 
-1. Modify `python_facts.py` to include the missing third fact: 'Python is free and open-source.'
-2. Click the "Check" button again to verify the code is correct.
+## Code Challenge
+
+Modify `python_facts.py` to include the missing third fact:<br> 'Python is free and open-source.'
+
+Click the "Check" button again to verify the code is correct.
 
 

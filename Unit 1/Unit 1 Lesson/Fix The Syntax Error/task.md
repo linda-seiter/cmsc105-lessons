@@ -20,5 +20,6 @@ Hover the mouse over the red underlined code to see a message that describes the
 
 ### Code Challenge
 
-1. Fix the syntax errors on lines 3, 5, and 7.
-2. Click the "Check" button to confirm the code runs and produces the expected output.
+Fix the syntax errors on lines 3, 5, and 7.
+
+Click the "Check" button to confirm the code runs and produces the expected output.

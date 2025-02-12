@@ -7,7 +7,7 @@ options:
     is_correct: true
   - text: first class
     is_correct: false
-message_incorrect: "Must start with a letter or underscore. May only contain letters,\
+message_incorrect: "Variable names start with a letter or underscore and may only contain letters,\
   \ digits, and underscores."
 files:
   - name: variables.py

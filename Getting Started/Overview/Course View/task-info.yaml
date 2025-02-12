@@ -8,3 +8,6 @@ files:
   - name: course_view.png
     visible: false
     is_binary: true
+  - name: project_button.png
+    visible: true
+    is_binary: true

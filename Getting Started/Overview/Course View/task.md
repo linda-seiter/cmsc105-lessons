@@ -10,13 +10,12 @@ img {
 }
 </style>
 
-TODO: REDO IMAGE, alt
 
-<img src="course_view.png" class="center" width=400>
+<img src="course_view.png" alt="course view listing lessons and tasks" class="center" width=400>
 
 You can navigate to a task by double-clicking its name.
 
-TODO: Images of Project Tool Window button
-
-- To hide the Course View window, click the Project Tool Window button or press <span style="color: #509DD6">&shortcut:ActivateProjectToolWindow;</span>. This will give you more space for the Editor and Task Description windows.
+- To hide the Course View window, click the Project Tool Window button (folder icon in tool menu) or press <span style="color: #509DD6">&shortcut:ActivateProjectToolWindow;</span>. This will give you more space for the Editor and Task Description windows.
 - To show the hidden Course View window, click the Project Tool Window button (or press <span style="color: #509DD6">&shortcut:ActivateProjectToolWindow;</span>) again.
+
+<img src="project_button.png" alt="project tool button" class="center" width=200>

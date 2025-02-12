@@ -1,5 +1,4 @@
-"""Unit 1-Task 3 Unit 2 Project
-
+"""
 This program prompts for a major and displays an affirmation using the user input.
 
 Author: First Last
@@ -9,4 +8,6 @@ Version: 1.0
 
 # TODO: Prompt for academic major.
 
-# TODO: Display the major followed by the phrase " is a great major!"
+
+# TODO: Display the major followed by the phrase 'is a great major!'
+

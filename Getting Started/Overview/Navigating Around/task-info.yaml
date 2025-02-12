@@ -6,5 +6,5 @@ files:
     visible: false
     propagatable: false
   - name: pycharm_views.png
-    visible: false
+    visible: true
     is_binary: true

@@ -1,10 +1,12 @@
 **Natural languages** are the languages that humans
 use to communicate with one another,
-such as English, Spanish, and others. These languages were not deliberately created; rather, they evolved naturally over time.
+such as English, Spanish, and others.
+These languages were not intentionally created; rather, they evolved naturally over time
+through social interaction.
 
 **Formal Languages** are languages created by humans
 for specific purposes. Programming languages are a
-type of formal language designed to express computations
+type of formal language designed to express computation
 and give instructions to computers. 
 
 Just like natural languages, programming languages need

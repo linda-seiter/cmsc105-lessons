@@ -7,7 +7,7 @@ options:
     is_correct: true
   - text: '"Not a string?"'
     is_correct: false
-message_incorrect: A string must be enclosed in single or double quotes.
+message_incorrect: The characters must be enclosed in single or double quotes.
 files:
   - name: print_strings.py
     visible: true

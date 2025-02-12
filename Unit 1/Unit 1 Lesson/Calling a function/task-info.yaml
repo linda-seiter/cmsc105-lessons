@@ -9,6 +9,8 @@ options:
     is_correct: true
   - text: print('Python'
     is_correct: false
+message_incorrect: "Ensure that parentheses and quotes are properly matched, and the\
+  \ function name is written in lowercase."
 files:
   - name: main.py
     visible: true
