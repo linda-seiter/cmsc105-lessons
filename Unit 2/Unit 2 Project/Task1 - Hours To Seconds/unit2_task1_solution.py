@@ -8,13 +8,13 @@ Version: 1.0
 SECONDS_PER_HOUR = 3600
 SECONDS_PER_MINUTE = 60
 
-# Prompting for input
+# Prompt for hours, minutes, seconds
 hours = int(input('Enter the number of hours: '))
 minutes = int(input('Enter the number of minutes: '))
 seconds = int(input('Enter the number of seconds: '))
 
-# Calculating total seconds
+# Calculate total seconds
 total_seconds = (hours * SECONDS_PER_HOUR) + (minutes * SECONDS_PER_MINUTE) + seconds
 
-# Displaying the result
+# Display the result
 print(f'{hours} hours, {minutes} minutes, and {seconds} seconds is equal to {total_seconds} total seconds.')

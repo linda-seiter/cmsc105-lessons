@@ -13,9 +13,8 @@ in the print statements. This allows the values to be printed instead of the var
 
 ## Comprehension Check
 
-Run the code in `variables.py` to view the output.
+Run the code in `variables.py` to view the output. What value is printed by this line:
 
-What is printed by the following line of code:
 ```python
 print(price_per_lb)
 ```

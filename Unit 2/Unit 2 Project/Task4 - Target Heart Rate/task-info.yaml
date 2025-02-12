@@ -1,6 +1,6 @@
 type: edu
 files:
-  - name: heart_rate_task.py
+  - name: unit2_task4_solution.py
     visible: true
   - name: tests/test_task.py
     visible: false
@@ -11,3 +11,5 @@ files:
   - name: tests/__init__.py
     visible: false
     propagatable: false
+  - name: unit2_task4.py
+    visible: true

@@ -1,6 +1,4 @@
-Unit 1 Project
-
-Learning Objectives 
+Unit 1 Project Learning Outcomes 
 
 - Run Python code using PyCharm
 - Use the `print` function to display output
