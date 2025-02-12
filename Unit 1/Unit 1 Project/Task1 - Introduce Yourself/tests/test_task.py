@@ -5,7 +5,7 @@ import io
 class TestCase(unittest.TestCase):
     def test_output(self):
         with patch("sys.stdout", new=io.StringIO()) as mock_stdout:
-            with open("unit1_task1.py", "r") as file:
+            with open("unit2_task5.py", "r") as file:
                 code = file.read()
                 exec(code)
                 actual_output = mock_stdout.getvalue()

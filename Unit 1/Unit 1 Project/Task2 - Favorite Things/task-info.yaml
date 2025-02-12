@@ -11,5 +11,5 @@ files:
   - name: tests/__init__.py
     visible: false
     propagatable: false
-  - name: solution2.py
-    visible: false
+  - name: unit1_task2_solution.py
+    visible: true

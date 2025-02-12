@@ -51,12 +51,12 @@ additional_files:
     is_binary: true
   - name: Unit 1/Unit 1 Lesson/resources/pet_io2.png
     is_binary: true
-  - name: Unit 1/Unit 1 Lesson/resources/f_string.png
-    is_binary: true
   - name: Unit 1/Unit 1 Lesson/resources/correct_indentation.png
     is_binary: true
   - name: Unit 1/Unit 1 Lesson/resources/incorrect_indentation.png
     is_binary: true
   - name: Unit 1/Unit 1 Lesson/resources/multiple_args.png
+    is_binary: true
+  - name: Unit 2/Unit 2 Lesson/resources/f_string.png
     is_binary: true
 yaml_version: 2

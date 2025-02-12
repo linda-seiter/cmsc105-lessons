@@ -6,12 +6,12 @@ Date: January 1, 2025
 Version: 1.0
 """
 
-# Prompt for price and tip percentage
+# TODO: Prompt for price and tip percentage
 price = float(input('Price: '))
 tip_percent = int(input('Tip %: '))
 
-# Calculate the tip based on price and percentage
+# TODO: Calculate the tip based on price and percentage
 tip = price * tip_percent / 100  # Assuming the tip percent is entered as a percentage (e.g., 20 for 20%)
 
-# Display the result formatted to 2 decimal places
+# TODO: Display the result formatted to 2 decimal places
 print(f'The tip should be ${tip:.2f}.')

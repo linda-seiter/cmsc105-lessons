@@ -1,6 +1,6 @@
 type: edu
 files:
-  - name: unit1_task4.py
+  - name: unit2_task5_solution.py
     visible: true
   - name: tests/test_task.py
     visible: false
@@ -11,5 +11,5 @@ files:
   - name: tests/__init__.py
     visible: false
     propagatable: false
-  - name: solution4.py
+  - name: unit2_task5.py
     visible: true

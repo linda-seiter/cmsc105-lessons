@@ -12,6 +12,6 @@ import math
 
 # TODO: Prompt for age
 
-# TODO: Calculate maximum rate, 50%, 70%, and 85%, rounded down to nearest integer
+# TODO: Calculate maximum rate, 50%, 70%, and and 85%, rounded down to nearest integer
 
 # TODO: Display the result

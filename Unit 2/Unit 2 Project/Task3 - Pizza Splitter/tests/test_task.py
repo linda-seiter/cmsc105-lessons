@@ -7,9 +7,9 @@ class TestCase(unittest.TestCase):
         """Helper method to run the test for a given input and expected output format."""
         with patch('builtins.input', side_effect=input_values):
             with patch("sys.stdout", new=io.StringIO()) as mock_stdout:
-                with open("unit2_task2.py", "r") as file:
+                with open("unit2_task5.py", "r") as file:
                     code = file.read()
-                    exec(code)  # Executes the code in unit1_task4.py
+                    exec(code)  # Executes the code in unit2_task5.py
                     actual = mock_stdout.getvalue().strip()
                     self.assertEqual(expected_output, actual)
 
