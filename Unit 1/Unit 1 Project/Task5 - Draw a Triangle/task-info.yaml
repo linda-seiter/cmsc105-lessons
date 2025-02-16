@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: unit1_task5_solution.py
+    visible: true
+  - name: tests/test_task.py
+    visible: false
+    propagatable: false
+  - name: __init__.py
+    visible: false
+    propagatable: false
+  - name: tests/__init__.py
+    visible: false
+    propagatable: false

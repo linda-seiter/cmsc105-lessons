@@ -8,6 +8,7 @@ content:
   - Getting Started
   - Unit 1
   - Unit 2
+  - Tmp
 additional_files:
   - name: .idea/inspectionProfiles/profiles_settings.xml
   - name: README.md

@@ -1,0 +1,15 @@
+type: edu
+files:
+  - name: my_turtle.py
+    visible: true
+  - name: tests/test_task.py
+    visible: false
+    propagatable: false
+  - name: __init__.py
+    visible: false
+    propagatable: false
+  - name: tests/__init__.py
+    visible: false
+    propagatable: false
+  - name: my_turtle2.py
+    visible: true
